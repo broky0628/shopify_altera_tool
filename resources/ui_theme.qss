@@ -1,0 +1,16 @@
+/* Hot-updatable PyQt theme placeholder.
+   Keep selectors aligned with the app stylesheet before enabling full QSS loading. */
+QMainWindow {
+  background: #edf6ff;
+}
+QPushButton {
+  background: #e8f3ff;
+  color: #0b4d91;
+  border: 1px solid #9cc7f2;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-weight: 600;
+}
+QPushButton:hover {
+  background: #d8ecff;
+}
