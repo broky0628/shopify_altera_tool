@@ -1,0 +1,25 @@
+{
+  "version": "8.1.1",
+  "python": "3.10",
+  "platform": "win_amd64",
+  "notes": [
+    "Update compiled core modules"
+  ],
+  "modules": [
+    {
+      "path": "modules/core_logic.pyd",
+      "url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v8.1.1/core_logic.pyd",
+      "sha256": ""
+    },
+    {
+      "path": "modules/seo_engine.pyd",
+      "url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v8.1.1/seo_engine.pyd",
+      "sha256": ""
+    },
+    {
+      "path": "modules/excel_engine.pyd",
+      "url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v8.1.1/excel_engine.pyd",
+      "sha256": ""
+    }
+  ]
+}
