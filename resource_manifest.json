@@ -1,0 +1,30 @@
+{
+  "version": "2026.07.05",
+  "notes": [
+    "Update clause library",
+    "Update SEO category keywords",
+    "Update GUI theme resources"
+  ],
+  "resources": [
+    {
+      "path": "clause_lib.json",
+      "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/clause_lib.json",
+      "sha256": ""
+    },
+    {
+      "path": "seo_category_keywords.json",
+      "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/seo_category_keywords.json",
+      "sha256": ""
+    },
+    {
+      "path": "ui_theme.qss",
+      "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/ui_theme.qss",
+      "sha256": ""
+    },
+    {
+      "path": "ui_config.json",
+      "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/ui_config.json",
+      "sha256": ""
+    }
+  ]
+}
