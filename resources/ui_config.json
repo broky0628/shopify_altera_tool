@@ -1,0 +1,12 @@
+{
+  "version": "2026.07.05",
+  "app_title": "Altera V8 - Shopify Data Tool",
+  "theme": "blue-white",
+  "features": {
+    "seo_fetch": true,
+    "seo_local_rewrite": true,
+    "resource_hot_update": true,
+    "module_hot_update": false,
+    "full_app_update": true
+  }
+}
