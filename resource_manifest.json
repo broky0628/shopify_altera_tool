@@ -9,22 +9,22 @@
     {
       "path": "clause_lib.json",
       "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/clause_lib.json",
-      "sha256": ""
+      "sha256": "e86ad41d9b4e90c96df4d4ce302edde12accfe106cdae379b860f749be8847df"
     },
     {
       "path": "seo_category_keywords.json",
       "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/seo_category_keywords.json",
-      "sha256": ""
+      "sha256": "a635daa00200b4826630e359f363b4c493fca34e5989a1514bcc1d9ddb170a21"
     },
     {
       "path": "ui_theme.qss",
       "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/ui_theme.qss",
-      "sha256": ""
+      "sha256": "74d2b193746b78f7ae987e39f12c8f21b7a214f262dea2496cff76bf003801d3"
     },
     {
       "path": "ui_config.json",
       "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/ui_config.json",
-      "sha256": ""
+      "sha256": "a23e07fa28e53a6cf9bf473d991ef1a34bffd8ec6fc453d9edcfdbb4ddf41aa7"
     }
   ]
 }
