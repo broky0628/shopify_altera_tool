@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "channel": "stable",
+  "announcements": [
+    {
+      "id": "2026-07-06-hello-world",
+      "title": "公告",
+      "content": "hello world!",
+      "level": "info",
+      "priority": 10,
+      "start_at": "2026-07-06 00:00:00",
+      "end_at": "",
+      "min_app_version": "9.0.0",
+      "max_app_version": "",
+      "show_once": true,
+      "modal": false,
+      "button_text": "",
+      "button_url": ""
+    }
+  ]
+}
