@@ -5,7 +5,7 @@
     {
       "id": "2026-07-06-hello-world",
       "title": "公告",
-      "content": "hello world!",
+      "content": "hello world!有什么新需求或者bug可以随时联系我哦",
       "level": "info",
       "priority": 10,
       "start_at": "2026-07-06 00:00:00",
