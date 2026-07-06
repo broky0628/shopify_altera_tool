@@ -1,0 +1,14 @@
+{
+  "version": "9.0.0",
+  "channel": "stable",
+  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.0.0/Power.exe",
+  "file_name": "Power.exe",
+  "sha256": "",
+  "mandatory": false,
+  "notes": [
+    "修复 GitHub API 限流导致的更新检查失败",
+    "优先使用 update_manifest.json 进行应用更新检查",
+    "新增公告推送功能"
+  ],
+  "restart_args": []
+}
