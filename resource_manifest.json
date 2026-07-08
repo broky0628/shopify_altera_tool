@@ -1,5 +1,5 @@
 {
-  "version": "2026.07.05",
+  "version": "2026.07.08",
   "notes": [
     "Update clause library",
     "Update SEO category keywords",
@@ -9,7 +9,7 @@
     {
       "path": "clause_lib.json",
       "url": "https://raw.githubusercontent.com/broky0628/shopify_altera_tool/main/resources/clause_lib.json",
-      "sha256": "e86ad41d9b4e90c96df4d4ce302edde12accfe106cdae379b860f749be8847df"
+      "sha256": "1ed04089916daf9d9a66cf00d27396df028d6d28658437fbc66faa3bf1307726"
     },
     {
       "path": "seo_category_keywords.json",
