@@ -1,14 +1,14 @@
 {
-  "version": "9.1.0",
+  "version": "9.2.0",
   "channel": "stable",
-  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.1.0/Power.exe",
-  "file_name": "Power.exe",
-  "sha256": "af251d3f3524430e9ebf6863a0c05277d2291ee462feed741910ae4f3827ff94",
+  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.0/altera_V9.2.exe",
+  "file_name": "altera_V9.2.exe",
+  "sha256": "0947875F177B2B388A01419A76BEE055DF0E4741B31DB19FF7FB197DECEC1221",
   "mandatory": false,
   "notes": [
-    "新增顶部浏览器设置，可选择 Chrome、Edge 或自定义路径",
-    "公告改为每次启动悬浮窗弹出，并支持手动强制刷新",
-    "移除 header_logo 提取功能，保留 favicon 提取"
+    "Package v9.2.0 release.",
+    "Improve SEO favicon output handling and HTTP-first SEO fetching.",
+    "Update product variant picker handling and selected-file workflow."
   ],
   "restart_args": []
 }
