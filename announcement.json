@@ -1,21 +1,21 @@
 {
-  "version": 1,
+  "version": 2,
   "channel": "stable",
   "announcements": [
     {
-      "id": "2026-07-06-hello-world",
-      "title": "公告",
-      "content": "hello world!有什么新需求或者bug可以随时联系我哦",
+      "id": "2026-07-08-power-v9-2-1-changelog",
+      "title": "Power v9.2.1 更新日志",
+      "content": "本次更新：1. 修复拖拽 CSV 文件无法正常导入的问题；2. 拖拽/选择文件时先加入列表，开始处理时再移动到用户设置的工作目录 _gui_input；3. 产品变体数量超过 6 个时自动将 variant_picker.picker_type 改为 dropdown；4. SEO 获取优先使用 HTTP 模式，并将 favicon 按品牌名保存到输出目录；5. 优化 SEO 本地改写的品牌识别，减少品牌不匹配；6. 更新检查支持 GitHub 安装包下载，下载完成后自动打开安装程序；7. 修复 PyInstaller 打包缺少 numpy.random 导致启动失败的问题。",
       "level": "info",
-      "priority": 10,
-      "start_at": "2026-07-06 00:00:00",
+      "priority": 30,
+      "start_at": "2026-07-08 00:00:00",
       "end_at": "",
       "min_app_version": "9.0.0",
       "max_app_version": "",
-      "show_once": true,
-      "modal": false,
-      "button_text": "",
-      "button_url": ""
+      "show_once": false,
+      "modal": true,
+      "button_text": "下载 v9.2.1",
+      "button_url": "https://github.com/broky0628/shopify_altera_tool/releases/tag/v9.2.1"
     }
   ]
 }
