@@ -1,12 +1,13 @@
 {
   "version": "9.2.0",
   "channel": "stable",
-  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.0/altera_V9.2.exe",
-  "file_name": "altera_V9.2.exe",
-  "sha256": "0947875F177B2B388A01419A76BEE055DF0E4741B31DB19FF7FB197DECEC1221",
+  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.0/Power_Setup_v9.2.0.exe",
+  "file_name": "Power_Setup_v9.2.0.exe",
+  "sha256": "7ED480BB646FF1C5013C7C33F9504481C99CF52BA36C3A52CDEB6EACA234C053",
   "mandatory": false,
+  "install_mode": "open",
   "notes": [
-    "Package v9.2.0 release.",
+    "Package v9.2.0 installer release.",
     "Improve SEO favicon output handling and HTTP-first SEO fetching.",
     "Update product variant picker handling and selected-file workflow."
   ],
