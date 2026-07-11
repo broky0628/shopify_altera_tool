@@ -1,16 +1,15 @@
 {
-  "version": "9.2.3",
+  "version": "9.2.4",
   "channel": "stable",
-  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.3/Power_Setup_v9.2.3.exe",
-  "file_name": "Power_Setup_v9.2.3.exe",
-  "sha256": "8CFADD17D091C1C08705FEFC5D1852AE8E8EEAB8BF1168FD25FF29595F7A76B4",
+  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.4/Power_Setup_v9.2.4.exe",
+  "file_name": "Power_Setup_v9.2.4.exe",
+  "sha256": "357702E3729D80200D3CC6CA34B43C7AE818651A59A965CE398B1B0BA488C09A",
   "mandatory": false,
   "install_mode": "open",
   "notes": [
-    "产品菜单标题大小写可选（大写/小写/保持原样），设置面板新增下拉框",
-    "条款页面菜单标题始终大写",
-    "菜单父级识别同时检查连接词和型号后缀，避免误拆分",
-    "修复安装包引用旧版本 EXE 的问题"
+    "删除菜单路径模式，统一使用单词前缀匹配",
+    "菜单编辑面板标题统一大写显示",
+    "安装 beautifulsoup4 依赖"
   ],
   "restart_args": []
 }
