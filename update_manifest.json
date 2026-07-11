@@ -1,16 +1,15 @@
 {
-  "version": "9.2.2",
+  "version": "9.2.3",
   "channel": "stable",
-  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.2/Power_Setup_v9.2.2.exe",
-  "file_name": "Power_Setup_v9.2.2.exe",
-  "sha256": "F31F82BD7DA8041A664531511654AF26FB7C5135560209709EE3C59869EE0EAE",
+  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.3/Power_Setup_v9.2.3.exe",
+  "file_name": "Power_Setup_v9.2.3.exe",
+  "sha256": "537016A2F3C7ED8958B9586F8FFB6D5A82CF91AACC80A2F004FB54F1186E057C",
   "mandatory": false,
   "install_mode": "open",
   "notes": [
     "产品菜单标题大小写可选（大写/小写/保持原样），设置面板新增下拉框",
     "条款页面菜单标题始终大写",
-    "菜单父级识别同时检查连接词和型号后缀，避免误拆分",
-    "清除更新公告"
+    "菜单父级识别同时检查连接词和型号后缀，避免误拆分"
   ],
   "restart_args": []
 }
