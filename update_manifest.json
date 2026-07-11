@@ -3,13 +3,14 @@
   "channel": "stable",
   "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.3/Power_Setup_v9.2.3.exe",
   "file_name": "Power_Setup_v9.2.3.exe",
-  "sha256": "537016A2F3C7ED8958B9586F8FFB6D5A82CF91AACC80A2F004FB54F1186E057C",
+  "sha256": "8CFADD17D091C1C08705FEFC5D1852AE8E8EEAB8BF1168FD25FF29595F7A76B4",
   "mandatory": false,
   "install_mode": "open",
   "notes": [
     "产品菜单标题大小写可选（大写/小写/保持原样），设置面板新增下拉框",
     "条款页面菜单标题始终大写",
-    "菜单父级识别同时检查连接词和型号后缀，避免误拆分"
+    "菜单父级识别同时检查连接词和型号后缀，避免误拆分",
+    "修复安装包引用旧版本 EXE 的问题"
   ],
   "restart_args": []
 }
