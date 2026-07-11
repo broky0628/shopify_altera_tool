@@ -3,13 +3,14 @@
   "channel": "stable",
   "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.2.1/Power_Setup_v9.2.1.exe",
   "file_name": "Power_Setup_v9.2.1.exe",
-  "sha256": "FE3CC929D6D889D14CF4F40839E89175FCD52AC3A62D180F877A10FB3E27D760",
+  "sha256": "1D6163B59C09610A14CAD3177252CB81553B9E3717E6CEB7A31B18C535A0926A",
   "mandatory": false,
   "install_mode": "open",
   "notes": [
-    "Fix CSV drag-and-drop import.",
-    "Move input files to configured work directory when processing starts.",
-    "Add v9.2.1 changelog announcement."
+    "产品菜单标题大小写可选（大写/小写/保持原样），设置面板新增下拉框",
+    "条款页面菜单标题始终大写",
+    "菜单父级识别同时检查连接词和型号后缀，避免误拆分",
+    "清除更新公告"
   ],
   "restart_args": []
 }
