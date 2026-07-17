@@ -1,20 +1,18 @@
 {
-  "version": "9.4.2",
+  "version": "9.4.4",
   "channel": "stable",
-  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.4.2/Power_Setup_v9.4.2.exe",
-  "file_name": "Power_Setup_v9.4.2.exe",
-  "sha256": "812C3A1B3CEED2C9AD6738B467BEF773B75BACF8CEF5F02704E62295452CA6A9",
+  "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.4.4/Power_Setup_v9.4.4.exe",
+  "file_name": "Power_Setup_v9.4.4.exe",
+  "sha256": "FDAE663890758B11CF3C7BEF9A9273640A052105AEA3A361844B77BE4741F5CF",
   "mandatory": false,
   "install_mode": "open",
   "notes": [
-    "v9.4.1 版本更新",
-    "修复安装包模式更新下载完成后未自动打开安装程序的问题",
-    "更新内置资源文件至最新版本",
-    "删除菜单路径模式，统一使用单词前缀匹配",
-    "菜单编辑面板标题统一大写显示",
-    "产品菜单标题大小写可选（大写/小写/保持原样），设置面板新增下拉框",
-    "菜单父级识别同时检查连接词和型号后缀，避免误拆分",
-    "安装 beautifulsoup4 依赖"
+    "v9.4.4 版本更新",
+    "修复数据处理时非字符串列触发 pandas .str accessor 报错的问题",
+    "CSV 读取统一按字符串处理，减少数字/空值导致的类型异常",
+    "SEO 获取方式新增 HTTP / Playwright / 浏览器优先选择",
+    "安装包补充 Playwright driver，修复浏览器模式启动时找不到文件的问题",
+    "增强 Playwright 浏览器路径自动查找和错误日志"
   ],
   "restart_args": []
 }
