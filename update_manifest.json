@@ -3,7 +3,7 @@
   "channel": "stable",
   "download_url": "https://github.com/broky0628/shopify_altera_tool/releases/download/v9.4.4/Power_Setup_v9.4.4.exe",
   "file_name": "Power_Setup_v9.4.4.exe",
-  "sha256": "FDAE663890758B11CF3C7BEF9A9273640A052105AEA3A361844B77BE4741F5CF",
+  "sha256": "65CBE91B18C326BDB2CCF29898A725F9DFE12931D173BD37C95C1B65A9E0654F",
   "mandatory": false,
   "install_mode": "open",
   "notes": [
